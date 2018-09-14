@@ -3,7 +3,7 @@ FixIt
 
 A utility website which can help users search for necessary utility people (plumber,electrician,carpenter) based on location,rating and contact them via e-mail
 
-website :- http://www.fixit.comuv.com/
+
 
 Group Members:-
 1. Suket Sharma
